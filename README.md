@@ -1,6 +1,5 @@
 # test.xxx
-This is a description.
-OKOKOKOKOK
-my name is zvi_chen.
+This is a readme-add
 this is the test version of my repository.
+test the adding changes.
 thx!
